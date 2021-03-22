@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinamentoDia4_Heranca", "TreinamentoDia4_Heranca\TreinamentoDia4_Heranca.csproj", "{26A53391-FA0A-4450-B0E0-CA63CDDC9B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26A53391-FA0A-4450-B0E0-CA63CDDC9B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A53391-FA0A-4450-B0E0-CA63CDDC9B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A53391-FA0A-4450-B0E0-CA63CDDC9B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A53391-FA0A-4450-B0E0-CA63CDDC9B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D041483F-876A-484D-BB74-6F303EBB7B87}
+	EndGlobalSection
+EndGlobal

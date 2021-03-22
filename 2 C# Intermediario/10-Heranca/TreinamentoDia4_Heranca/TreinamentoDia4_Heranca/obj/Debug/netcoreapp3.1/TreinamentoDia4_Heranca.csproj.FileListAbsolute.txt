@@ -1,0 +1,13 @@
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia4_Heranca\TreinamentoDia4_Heranca\bin\Debug\netcoreapp3.1\TreinamentoDia4_Heranca.exe
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia4_Heranca\TreinamentoDia4_Heranca\bin\Debug\netcoreapp3.1\TreinamentoDia4_Heranca.deps.json
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia4_Heranca\TreinamentoDia4_Heranca\bin\Debug\netcoreapp3.1\TreinamentoDia4_Heranca.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia4_Heranca\TreinamentoDia4_Heranca\bin\Debug\netcoreapp3.1\TreinamentoDia4_Heranca.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia4_Heranca\TreinamentoDia4_Heranca\bin\Debug\netcoreapp3.1\TreinamentoDia4_Heranca.dll
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia4_Heranca\TreinamentoDia4_Heranca\bin\Debug\netcoreapp3.1\TreinamentoDia4_Heranca.pdb
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia4_Heranca\TreinamentoDia4_Heranca\obj\Debug\netcoreapp3.1\TreinamentoDia4_Heranca.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia4_Heranca\TreinamentoDia4_Heranca\obj\Debug\netcoreapp3.1\TreinamentoDia4_Heranca.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia4_Heranca\TreinamentoDia4_Heranca\obj\Debug\netcoreapp3.1\TreinamentoDia4_Heranca.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia4_Heranca\TreinamentoDia4_Heranca\obj\Debug\netcoreapp3.1\TreinamentoDia4_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia4_Heranca\TreinamentoDia4_Heranca\obj\Debug\netcoreapp3.1\TreinamentoDia4_Heranca.dll
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia4_Heranca\TreinamentoDia4_Heranca\obj\Debug\netcoreapp3.1\TreinamentoDia4_Heranca.pdb
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia4_Heranca\TreinamentoDia4_Heranca\obj\Debug\netcoreapp3.1\TreinamentoDia4_Heranca.genruntimeconfig.cache

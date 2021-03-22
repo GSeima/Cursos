@@ -1,0 +1,13 @@
+C:\Users\gabriel.seima\source\repos\Lambda219\Lambda219\bin\Debug\netcoreapp3.1\Lambda219.exe
+C:\Users\gabriel.seima\source\repos\Lambda219\Lambda219\bin\Debug\netcoreapp3.1\Lambda219.deps.json
+C:\Users\gabriel.seima\source\repos\Lambda219\Lambda219\bin\Debug\netcoreapp3.1\Lambda219.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\Lambda219\Lambda219\bin\Debug\netcoreapp3.1\Lambda219.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\Lambda219\Lambda219\bin\Debug\netcoreapp3.1\Lambda219.dll
+C:\Users\gabriel.seima\source\repos\Lambda219\Lambda219\bin\Debug\netcoreapp3.1\Lambda219.pdb
+C:\Users\gabriel.seima\source\repos\Lambda219\Lambda219\obj\Debug\netcoreapp3.1\Lambda219.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\Lambda219\Lambda219\obj\Debug\netcoreapp3.1\Lambda219.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\Lambda219\Lambda219\obj\Debug\netcoreapp3.1\Lambda219.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\Lambda219\Lambda219\obj\Debug\netcoreapp3.1\Lambda219.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\Lambda219\Lambda219\obj\Debug\netcoreapp3.1\Lambda219.dll
+C:\Users\gabriel.seima\source\repos\Lambda219\Lambda219\obj\Debug\netcoreapp3.1\Lambda219.pdb
+C:\Users\gabriel.seima\source\repos\Lambda219\Lambda219\obj\Debug\netcoreapp3.1\Lambda219.genruntimeconfig.cache

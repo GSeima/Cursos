@@ -1,0 +1,13 @@
+C:\Users\gabriel.seima\source\repos\TreinamentoDia3\TreinamentoDia3\bin\Debug\netcoreapp3.1\TreinamentoDia3.exe
+C:\Users\gabriel.seima\source\repos\TreinamentoDia3\TreinamentoDia3\bin\Debug\netcoreapp3.1\TreinamentoDia3.deps.json
+C:\Users\gabriel.seima\source\repos\TreinamentoDia3\TreinamentoDia3\bin\Debug\netcoreapp3.1\TreinamentoDia3.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\TreinamentoDia3\TreinamentoDia3\bin\Debug\netcoreapp3.1\TreinamentoDia3.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\TreinamentoDia3\TreinamentoDia3\bin\Debug\netcoreapp3.1\TreinamentoDia3.dll
+C:\Users\gabriel.seima\source\repos\TreinamentoDia3\TreinamentoDia3\bin\Debug\netcoreapp3.1\TreinamentoDia3.pdb
+C:\Users\gabriel.seima\source\repos\TreinamentoDia3\TreinamentoDia3\obj\Debug\netcoreapp3.1\TreinamentoDia3.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\TreinamentoDia3\TreinamentoDia3\obj\Debug\netcoreapp3.1\TreinamentoDia3.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\TreinamentoDia3\TreinamentoDia3\obj\Debug\netcoreapp3.1\TreinamentoDia3.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\TreinamentoDia3\TreinamentoDia3\obj\Debug\netcoreapp3.1\TreinamentoDia3.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\TreinamentoDia3\TreinamentoDia3\obj\Debug\netcoreapp3.1\TreinamentoDia3.dll
+C:\Users\gabriel.seima\source\repos\TreinamentoDia3\TreinamentoDia3\obj\Debug\netcoreapp3.1\TreinamentoDia3.pdb
+C:\Users\gabriel.seima\source\repos\TreinamentoDia3\TreinamentoDia3\obj\Debug\netcoreapp3.1\TreinamentoDia3.genruntimeconfig.cache

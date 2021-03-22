@@ -1,0 +1,13 @@
+C:\Users\gabriel.seima\source\repos\TreinamentoDia5_Section13_189\TreinamentoDia5_Section13_189\bin\Debug\netcoreapp3.1\TreinamentoDia5_Section13_189.exe
+C:\Users\gabriel.seima\source\repos\TreinamentoDia5_Section13_189\TreinamentoDia5_Section13_189\bin\Debug\netcoreapp3.1\TreinamentoDia5_Section13_189.deps.json
+C:\Users\gabriel.seima\source\repos\TreinamentoDia5_Section13_189\TreinamentoDia5_Section13_189\bin\Debug\netcoreapp3.1\TreinamentoDia5_Section13_189.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\TreinamentoDia5_Section13_189\TreinamentoDia5_Section13_189\bin\Debug\netcoreapp3.1\TreinamentoDia5_Section13_189.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\TreinamentoDia5_Section13_189\TreinamentoDia5_Section13_189\bin\Debug\netcoreapp3.1\TreinamentoDia5_Section13_189.dll
+C:\Users\gabriel.seima\source\repos\TreinamentoDia5_Section13_189\TreinamentoDia5_Section13_189\bin\Debug\netcoreapp3.1\TreinamentoDia5_Section13_189.pdb
+C:\Users\gabriel.seima\source\repos\TreinamentoDia5_Section13_189\TreinamentoDia5_Section13_189\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_189.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\TreinamentoDia5_Section13_189\TreinamentoDia5_Section13_189\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_189.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\TreinamentoDia5_Section13_189\TreinamentoDia5_Section13_189\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_189.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\TreinamentoDia5_Section13_189\TreinamentoDia5_Section13_189\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_189.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\TreinamentoDia5_Section13_189\TreinamentoDia5_Section13_189\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_189.dll
+C:\Users\gabriel.seima\source\repos\TreinamentoDia5_Section13_189\TreinamentoDia5_Section13_189\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_189.pdb
+C:\Users\gabriel.seima\source\repos\TreinamentoDia5_Section13_189\TreinamentoDia5_Section13_189\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_189.genruntimeconfig.cache

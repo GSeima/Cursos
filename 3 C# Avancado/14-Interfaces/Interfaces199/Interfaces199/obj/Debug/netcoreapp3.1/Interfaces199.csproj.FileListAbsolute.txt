@@ -1,0 +1,13 @@
+C:\Users\gabriel.seima\source\repos\Treinamento\C#3 Avancado\14-Interfaces\Interfaces199\Interfaces199\bin\Debug\netcoreapp3.1\Interfaces199.exe
+C:\Users\gabriel.seima\source\repos\Treinamento\C#3 Avancado\14-Interfaces\Interfaces199\Interfaces199\bin\Debug\netcoreapp3.1\Interfaces199.deps.json
+C:\Users\gabriel.seima\source\repos\Treinamento\C#3 Avancado\14-Interfaces\Interfaces199\Interfaces199\bin\Debug\netcoreapp3.1\Interfaces199.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\Treinamento\C#3 Avancado\14-Interfaces\Interfaces199\Interfaces199\bin\Debug\netcoreapp3.1\Interfaces199.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\Treinamento\C#3 Avancado\14-Interfaces\Interfaces199\Interfaces199\bin\Debug\netcoreapp3.1\Interfaces199.dll
+C:\Users\gabriel.seima\source\repos\Treinamento\C#3 Avancado\14-Interfaces\Interfaces199\Interfaces199\bin\Debug\netcoreapp3.1\Interfaces199.pdb
+C:\Users\gabriel.seima\source\repos\Treinamento\C#3 Avancado\14-Interfaces\Interfaces199\Interfaces199\obj\Debug\netcoreapp3.1\Interfaces199.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\Treinamento\C#3 Avancado\14-Interfaces\Interfaces199\Interfaces199\obj\Debug\netcoreapp3.1\Interfaces199.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\Treinamento\C#3 Avancado\14-Interfaces\Interfaces199\Interfaces199\obj\Debug\netcoreapp3.1\Interfaces199.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\Treinamento\C#3 Avancado\14-Interfaces\Interfaces199\Interfaces199\obj\Debug\netcoreapp3.1\Interfaces199.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\Treinamento\C#3 Avancado\14-Interfaces\Interfaces199\Interfaces199\obj\Debug\netcoreapp3.1\Interfaces199.dll
+C:\Users\gabriel.seima\source\repos\Treinamento\C#3 Avancado\14-Interfaces\Interfaces199\Interfaces199\obj\Debug\netcoreapp3.1\Interfaces199.pdb
+C:\Users\gabriel.seima\source\repos\Treinamento\C#3 Avancado\14-Interfaces\Interfaces199\Interfaces199\obj\Debug\netcoreapp3.1\Interfaces199.genruntimeconfig.cache

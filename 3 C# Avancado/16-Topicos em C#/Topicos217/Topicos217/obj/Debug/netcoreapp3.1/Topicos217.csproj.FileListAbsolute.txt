@@ -1,0 +1,13 @@
+C:\Users\gabriel.seima\source\repos\Topicos217\Topicos217\bin\Debug\netcoreapp3.1\Topicos217.exe
+C:\Users\gabriel.seima\source\repos\Topicos217\Topicos217\bin\Debug\netcoreapp3.1\Topicos217.deps.json
+C:\Users\gabriel.seima\source\repos\Topicos217\Topicos217\bin\Debug\netcoreapp3.1\Topicos217.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\Topicos217\Topicos217\bin\Debug\netcoreapp3.1\Topicos217.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\Topicos217\Topicos217\bin\Debug\netcoreapp3.1\Topicos217.dll
+C:\Users\gabriel.seima\source\repos\Topicos217\Topicos217\bin\Debug\netcoreapp3.1\Topicos217.pdb
+C:\Users\gabriel.seima\source\repos\Topicos217\Topicos217\obj\Debug\netcoreapp3.1\Topicos217.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\Topicos217\Topicos217\obj\Debug\netcoreapp3.1\Topicos217.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\Topicos217\Topicos217\obj\Debug\netcoreapp3.1\Topicos217.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\Topicos217\Topicos217\obj\Debug\netcoreapp3.1\Topicos217.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\Topicos217\Topicos217\obj\Debug\netcoreapp3.1\Topicos217.dll
+C:\Users\gabriel.seima\source\repos\Topicos217\Topicos217\obj\Debug\netcoreapp3.1\Topicos217.pdb
+C:\Users\gabriel.seima\source\repos\Topicos217\Topicos217\obj\Debug\netcoreapp3.1\Topicos217.genruntimeconfig.cache

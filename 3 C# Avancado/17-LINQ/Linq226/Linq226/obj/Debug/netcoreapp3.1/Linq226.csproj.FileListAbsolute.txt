@@ -1,0 +1,13 @@
+C:\Users\gabriel.seima\source\repos\Linq226\Linq226\bin\Debug\netcoreapp3.1\Linq226.exe
+C:\Users\gabriel.seima\source\repos\Linq226\Linq226\bin\Debug\netcoreapp3.1\Linq226.deps.json
+C:\Users\gabriel.seima\source\repos\Linq226\Linq226\bin\Debug\netcoreapp3.1\Linq226.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\Linq226\Linq226\bin\Debug\netcoreapp3.1\Linq226.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\Linq226\Linq226\bin\Debug\netcoreapp3.1\Linq226.dll
+C:\Users\gabriel.seima\source\repos\Linq226\Linq226\bin\Debug\netcoreapp3.1\Linq226.pdb
+C:\Users\gabriel.seima\source\repos\Linq226\Linq226\obj\Debug\netcoreapp3.1\Linq226.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\Linq226\Linq226\obj\Debug\netcoreapp3.1\Linq226.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\Linq226\Linq226\obj\Debug\netcoreapp3.1\Linq226.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\Linq226\Linq226\obj\Debug\netcoreapp3.1\Linq226.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\Linq226\Linq226\obj\Debug\netcoreapp3.1\Linq226.dll
+C:\Users\gabriel.seima\source\repos\Linq226\Linq226\obj\Debug\netcoreapp3.1\Linq226.pdb
+C:\Users\gabriel.seima\source\repos\Linq226\Linq226\obj\Debug\netcoreapp3.1\Linq226.genruntimeconfig.cache

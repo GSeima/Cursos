@@ -1,0 +1,13 @@
+C:\Users\gabriel.seima\source\repos\Generics208\Generics208\bin\Debug\netcoreapp3.1\Generics208.exe
+C:\Users\gabriel.seima\source\repos\Generics208\Generics208\bin\Debug\netcoreapp3.1\Generics208.deps.json
+C:\Users\gabriel.seima\source\repos\Generics208\Generics208\bin\Debug\netcoreapp3.1\Generics208.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\Generics208\Generics208\bin\Debug\netcoreapp3.1\Generics208.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\Generics208\Generics208\bin\Debug\netcoreapp3.1\Generics208.dll
+C:\Users\gabriel.seima\source\repos\Generics208\Generics208\bin\Debug\netcoreapp3.1\Generics208.pdb
+C:\Users\gabriel.seima\source\repos\Generics208\Generics208\obj\Debug\netcoreapp3.1\Generics208.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\Generics208\Generics208\obj\Debug\netcoreapp3.1\Generics208.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\Generics208\Generics208\obj\Debug\netcoreapp3.1\Generics208.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\Generics208\Generics208\obj\Debug\netcoreapp3.1\Generics208.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\Generics208\Generics208\obj\Debug\netcoreapp3.1\Generics208.dll
+C:\Users\gabriel.seima\source\repos\Generics208\Generics208\obj\Debug\netcoreapp3.1\Generics208.pdb
+C:\Users\gabriel.seima\source\repos\Generics208\Generics208\obj\Debug\netcoreapp3.1\Generics208.genruntimeconfig.cache

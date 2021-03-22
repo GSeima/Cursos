@@ -1,0 +1,26 @@
+C:\Users\gabriel.seima\source\repos\Linq228\Linq228\bin\Debug\netcoreapp3.1\Linq228.exe
+C:\Users\gabriel.seima\source\repos\Linq228\Linq228\bin\Debug\netcoreapp3.1\Linq228.deps.json
+C:\Users\gabriel.seima\source\repos\Linq228\Linq228\bin\Debug\netcoreapp3.1\Linq228.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\Linq228\Linq228\bin\Debug\netcoreapp3.1\Linq228.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\Linq228\Linq228\bin\Debug\netcoreapp3.1\Linq228.dll
+C:\Users\gabriel.seima\source\repos\Linq228\Linq228\bin\Debug\netcoreapp3.1\Linq228.pdb
+C:\Users\gabriel.seima\source\repos\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.dll
+C:\Users\gabriel.seima\source\repos\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.pdb
+C:\Users\gabriel.seima\source\repos\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.genruntimeconfig.cache
+C:\Users\gabriel.seima\source\repos\Treinamento\3 C# Avancado\17-Expressoes lambda, delegates, LINQ\Linq228\Linq228\bin\Debug\netcoreapp3.1\Linq228.exe
+C:\Users\gabriel.seima\source\repos\Treinamento\3 C# Avancado\17-Expressoes lambda, delegates, LINQ\Linq228\Linq228\bin\Debug\netcoreapp3.1\Linq228.deps.json
+C:\Users\gabriel.seima\source\repos\Treinamento\3 C# Avancado\17-Expressoes lambda, delegates, LINQ\Linq228\Linq228\bin\Debug\netcoreapp3.1\Linq228.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\Treinamento\3 C# Avancado\17-Expressoes lambda, delegates, LINQ\Linq228\Linq228\bin\Debug\netcoreapp3.1\Linq228.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\Treinamento\3 C# Avancado\17-Expressoes lambda, delegates, LINQ\Linq228\Linq228\bin\Debug\netcoreapp3.1\Linq228.dll
+C:\Users\gabriel.seima\source\repos\Treinamento\3 C# Avancado\17-Expressoes lambda, delegates, LINQ\Linq228\Linq228\bin\Debug\netcoreapp3.1\Linq228.pdb
+C:\Users\gabriel.seima\source\repos\Treinamento\3 C# Avancado\17-Expressoes lambda, delegates, LINQ\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\Treinamento\3 C# Avancado\17-Expressoes lambda, delegates, LINQ\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\Treinamento\3 C# Avancado\17-Expressoes lambda, delegates, LINQ\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\Treinamento\3 C# Avancado\17-Expressoes lambda, delegates, LINQ\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\Treinamento\3 C# Avancado\17-Expressoes lambda, delegates, LINQ\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.dll
+C:\Users\gabriel.seima\source\repos\Treinamento\3 C# Avancado\17-Expressoes lambda, delegates, LINQ\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.pdb
+C:\Users\gabriel.seima\source\repos\Treinamento\3 C# Avancado\17-Expressoes lambda, delegates, LINQ\Linq228\Linq228\obj\Debug\netcoreapp3.1\Linq228.genruntimeconfig.cache

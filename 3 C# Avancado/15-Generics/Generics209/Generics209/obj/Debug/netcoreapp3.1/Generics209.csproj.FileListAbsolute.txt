@@ -1,0 +1,13 @@
+C:\Users\gabriel.seima\source\repos\Generics209\Generics209\bin\Debug\netcoreapp3.1\Generics209.exe
+C:\Users\gabriel.seima\source\repos\Generics209\Generics209\bin\Debug\netcoreapp3.1\Generics209.deps.json
+C:\Users\gabriel.seima\source\repos\Generics209\Generics209\bin\Debug\netcoreapp3.1\Generics209.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\Generics209\Generics209\bin\Debug\netcoreapp3.1\Generics209.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\Generics209\Generics209\bin\Debug\netcoreapp3.1\Generics209.dll
+C:\Users\gabriel.seima\source\repos\Generics209\Generics209\bin\Debug\netcoreapp3.1\Generics209.pdb
+C:\Users\gabriel.seima\source\repos\Generics209\Generics209\obj\Debug\netcoreapp3.1\Generics209.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\Generics209\Generics209\obj\Debug\netcoreapp3.1\Generics209.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\Generics209\Generics209\obj\Debug\netcoreapp3.1\Generics209.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\Generics209\Generics209\obj\Debug\netcoreapp3.1\Generics209.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\Generics209\Generics209\obj\Debug\netcoreapp3.1\Generics209.dll
+C:\Users\gabriel.seima\source\repos\Generics209\Generics209\obj\Debug\netcoreapp3.1\Generics209.pdb
+C:\Users\gabriel.seima\source\repos\Generics209\Generics209\obj\Debug\netcoreapp3.1\Generics209.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4_Section11_143\TreinamentoDia4_Section11_143\bin\Debug\netcoreapp3.1\TreinamentoDia4_Section11_143.exe
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4_Section11_143\TreinamentoDia4_Section11_143\bin\Debug\netcoreapp3.1\TreinamentoDia4_Section11_143.deps.json
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4_Section11_143\TreinamentoDia4_Section11_143\bin\Debug\netcoreapp3.1\TreinamentoDia4_Section11_143.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4_Section11_143\TreinamentoDia4_Section11_143\bin\Debug\netcoreapp3.1\TreinamentoDia4_Section11_143.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4_Section11_143\TreinamentoDia4_Section11_143\bin\Debug\netcoreapp3.1\TreinamentoDia4_Section11_143.dll
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4_Section11_143\TreinamentoDia4_Section11_143\bin\Debug\netcoreapp3.1\TreinamentoDia4_Section11_143.pdb
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4_Section11_143\TreinamentoDia4_Section11_143\obj\Debug\netcoreapp3.1\TreinamentoDia4_Section11_143.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4_Section11_143\TreinamentoDia4_Section11_143\obj\Debug\netcoreapp3.1\TreinamentoDia4_Section11_143.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4_Section11_143\TreinamentoDia4_Section11_143\obj\Debug\netcoreapp3.1\TreinamentoDia4_Section11_143.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4_Section11_143\TreinamentoDia4_Section11_143\obj\Debug\netcoreapp3.1\TreinamentoDia4_Section11_143.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4_Section11_143\TreinamentoDia4_Section11_143\obj\Debug\netcoreapp3.1\TreinamentoDia4_Section11_143.dll
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4_Section11_143\TreinamentoDia4_Section11_143\obj\Debug\netcoreapp3.1\TreinamentoDia4_Section11_143.pdb
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4_Section11_143\TreinamentoDia4_Section11_143\obj\Debug\netcoreapp3.1\TreinamentoDia4_Section11_143.genruntimeconfig.cache

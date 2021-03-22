@@ -1,0 +1,13 @@
+C:\Users\gabriel.seima\source\repos\Interfaces202\Interfaces202\bin\Debug\netcoreapp3.1\Interfaces202.exe
+C:\Users\gabriel.seima\source\repos\Interfaces202\Interfaces202\bin\Debug\netcoreapp3.1\Interfaces202.deps.json
+C:\Users\gabriel.seima\source\repos\Interfaces202\Interfaces202\bin\Debug\netcoreapp3.1\Interfaces202.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\Interfaces202\Interfaces202\bin\Debug\netcoreapp3.1\Interfaces202.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\Interfaces202\Interfaces202\bin\Debug\netcoreapp3.1\Interfaces202.dll
+C:\Users\gabriel.seima\source\repos\Interfaces202\Interfaces202\bin\Debug\netcoreapp3.1\Interfaces202.pdb
+C:\Users\gabriel.seima\source\repos\Interfaces202\Interfaces202\obj\Debug\netcoreapp3.1\Interfaces202.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\Interfaces202\Interfaces202\obj\Debug\netcoreapp3.1\Interfaces202.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\Interfaces202\Interfaces202\obj\Debug\netcoreapp3.1\Interfaces202.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\Interfaces202\Interfaces202\obj\Debug\netcoreapp3.1\Interfaces202.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\Interfaces202\Interfaces202\obj\Debug\netcoreapp3.1\Interfaces202.dll
+C:\Users\gabriel.seima\source\repos\Interfaces202\Interfaces202\obj\Debug\netcoreapp3.1\Interfaces202.pdb
+C:\Users\gabriel.seima\source\repos\Interfaces202\Interfaces202\obj\Debug\netcoreapp3.1\Interfaces202.genruntimeconfig.cache

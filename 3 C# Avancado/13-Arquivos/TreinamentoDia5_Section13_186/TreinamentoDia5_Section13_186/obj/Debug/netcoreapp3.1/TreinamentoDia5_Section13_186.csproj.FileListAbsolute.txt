@@ -1,0 +1,13 @@
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia5_Section13_186\TreinamentoDia5_Section13_186\bin\Debug\netcoreapp3.1\TreinamentoDia5_Section13_186.exe
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia5_Section13_186\TreinamentoDia5_Section13_186\bin\Debug\netcoreapp3.1\TreinamentoDia5_Section13_186.deps.json
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia5_Section13_186\TreinamentoDia5_Section13_186\bin\Debug\netcoreapp3.1\TreinamentoDia5_Section13_186.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia5_Section13_186\TreinamentoDia5_Section13_186\bin\Debug\netcoreapp3.1\TreinamentoDia5_Section13_186.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia5_Section13_186\TreinamentoDia5_Section13_186\bin\Debug\netcoreapp3.1\TreinamentoDia5_Section13_186.dll
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia5_Section13_186\TreinamentoDia5_Section13_186\bin\Debug\netcoreapp3.1\TreinamentoDia5_Section13_186.pdb
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia5_Section13_186\TreinamentoDia5_Section13_186\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_186.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia5_Section13_186\TreinamentoDia5_Section13_186\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_186.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia5_Section13_186\TreinamentoDia5_Section13_186\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_186.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia5_Section13_186\TreinamentoDia5_Section13_186\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_186.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia5_Section13_186\TreinamentoDia5_Section13_186\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_186.dll
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia5_Section13_186\TreinamentoDia5_Section13_186\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_186.pdb
+C:\Users\gabriel.seima\source\repos\Treinamento\TreinamentoDia5_Section13_186\TreinamentoDia5_Section13_186\obj\Debug\netcoreapp3.1\TreinamentoDia5_Section13_186.genruntimeconfig.cache

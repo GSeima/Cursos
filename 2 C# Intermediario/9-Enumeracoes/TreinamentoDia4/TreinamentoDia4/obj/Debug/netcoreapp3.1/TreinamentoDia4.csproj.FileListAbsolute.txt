@@ -1,0 +1,13 @@
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4\TreinamentoDia4\obj\Debug\netcoreapp3.1\TreinamentoDia4.csprojAssemblyReference.cache
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4\TreinamentoDia4\obj\Debug\netcoreapp3.1\TreinamentoDia4.AssemblyInfoInputs.cache
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4\TreinamentoDia4\obj\Debug\netcoreapp3.1\TreinamentoDia4.AssemblyInfo.cs
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4\TreinamentoDia4\obj\Debug\netcoreapp3.1\TreinamentoDia4.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4\TreinamentoDia4\bin\Debug\netcoreapp3.1\TreinamentoDia4.exe
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4\TreinamentoDia4\bin\Debug\netcoreapp3.1\TreinamentoDia4.deps.json
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4\TreinamentoDia4\bin\Debug\netcoreapp3.1\TreinamentoDia4.runtimeconfig.json
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4\TreinamentoDia4\bin\Debug\netcoreapp3.1\TreinamentoDia4.runtimeconfig.dev.json
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4\TreinamentoDia4\bin\Debug\netcoreapp3.1\TreinamentoDia4.dll
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4\TreinamentoDia4\bin\Debug\netcoreapp3.1\TreinamentoDia4.pdb
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4\TreinamentoDia4\obj\Debug\netcoreapp3.1\TreinamentoDia4.dll
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4\TreinamentoDia4\obj\Debug\netcoreapp3.1\TreinamentoDia4.pdb
+C:\Users\gabriel.seima\source\repos\TreinamentoDia4\TreinamentoDia4\obj\Debug\netcoreapp3.1\TreinamentoDia4.genruntimeconfig.cache
